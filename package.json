@@ -4,6 +4,7 @@
     "@types/react": "^18.2.18",
     "@types/react-dom": "^18.2.7",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "startbootstrap-grayscale": "^7.0.6"
   }
 }
